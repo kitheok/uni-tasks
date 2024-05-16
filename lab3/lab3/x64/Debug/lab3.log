@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\pashu\OneDrive\Рабочий стол\жоски работы Ульяны Валентиновны\заход по с++\lab3\lab3\MyForm.h(231,20): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab3.vcxproj -> C:\Users\pashu\OneDrive\Рабочий стол\жоски работы Ульяны Валентиновны\заход по с++\lab3\x64\Debug\lab3.exe
