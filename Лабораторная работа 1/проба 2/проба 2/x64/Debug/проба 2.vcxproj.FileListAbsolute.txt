@@ -1,0 +1,12 @@
+C:\Users\pashu\OneDrive\Рабочий стол\заход по с++\проба 2\проба 2\x64\Debug\проба 2.vcxproj.AssemblyReference.cache
+C:\Users\pashu\OneDrive\Рабочий стол\заход по с++\проба 2\проба 2\x64\Debug\проба2.MyForm.resources
+C:\Users\pashu\OneDrive\Рабочий стол\заход по с++\проба 2\проба 2\x64\Debug\проба 2.vcxproj.GenerateResource.cache
+C:\Users\Ульяна\OneDrive\Рабочий стол\с днем уника\Лабораторная работа 1 прога\проба 2\проба 2\x64\Debug\проба 2.vcxproj.AssemblyReference.cache
+C:\Users\Ульяна\OneDrive\Рабочий стол\с днем уника\Лабораторная работа 1 прога\проба 2\проба 2\x64\Debug\проба2.MyForm.resources
+C:\Users\Ульяна\OneDrive\Рабочий стол\с днем уника\Лабораторная работа 1 прога\проба 2\проба 2\x64\Debug\проба 2.vcxproj.GenerateResource.cache
+C:\Users\Ульяна\OneDrive\Рабочий стол\Лабораторная работа рекурсия\Лабораторная работа 1\проба 2\проба 2\x64\Debug\проба 2.vcxproj.AssemblyReference.cache
+C:\Users\Ульяна\OneDrive\Рабочий стол\Лабораторная работа рекурсия\Лабораторная работа 1\проба 2\проба 2\x64\Debug\проба2.MyForm.resources
+C:\Users\Ульяна\OneDrive\Рабочий стол\Лабораторная работа рекурсия\Лабораторная работа 1\проба 2\проба 2\x64\Debug\проба 2.vcxproj.GenerateResource.cache
+E:\Лабораторная работа рекурсия\Лабораторная работа 1\проба 2\проба 2\x64\Debug\проба 2.vcxproj.AssemblyReference.cache
+E:\Лабораторная работа рекурсия\Лабораторная работа 1\проба 2\проба 2\x64\Debug\проба2.MyForm.resources
+E:\Лабораторная работа рекурсия\Лабораторная работа 1\проба 2\проба 2\x64\Debug\проба 2.vcxproj.GenerateResource.cache
