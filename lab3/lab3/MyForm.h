@@ -234,7 +234,7 @@ private: System::Void test_Click(System::Object^ sender, System::EventArgs^ e) {
 }
 
 private: System::Void red1_Click(System::Object^ sender, System::EventArgs^ e) {
-
+	
 }
 private: System::Void save_Click(System::Object^ sender, System::EventArgs^ e) {
 }
