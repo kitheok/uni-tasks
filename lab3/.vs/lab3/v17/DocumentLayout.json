@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\",
+  "WorkspaceRootPath": "E:\\\u041B\u0430\u0431\u044B\\lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|solutionrelative:lab3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "AbsoluteMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|solutionrelative:lab3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C773C39F-DBA5-416C-AE0C-A0512B1B378E}|lab3\\lab3.vcxproj|solutionrelative:lab3\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,23 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.h",
+              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.h",
               "RelativeDocumentMoniker": "lab3\\MyForm.h",
-              "ToolTip": "C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "lab3\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-19T14:40:22.864Z",
+              "WhenOpened": "2024-04-13T13:26:59.023Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MyForm.h",
-              "DocumentMoniker": "C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.h",
+              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.h",
               "RelativeDocumentMoniker": "lab3\\MyForm.h",
-              "ToolTip": "C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.h",
+              "ToolTip": "E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.h",
               "RelativeToolTip": "lab3\\MyForm.h",
-              "ViewState": "AQIAAMwAAAAAAAAAAAAAAOwAAAAAAAAA",
+              "ViewState": "AQIAACIBAAAAAAAAAAAAADIBAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-12T11:30:37.992Z",
               "EditorCaption": ""
@@ -53,13 +53,14 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MyForm.cpp",
-              "DocumentMoniker": "C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.cpp",
+              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.cpp",
               "RelativeDocumentMoniker": "lab3\\MyForm.cpp",
-              "ToolTip": "C:\\Users\\pashu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0436\u043E\u0441\u043A\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0423\u043B\u044C\u044F\u043D\u044B \u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u043E\u0432\u043D\u044B\\\u0437\u0430\u0445\u043E\u0434 \u043F\u043E \u0441\u002B\u002B\\lab3\\lab3\\MyForm.cpp",
+              "ToolTip": "E:\\\u041B\u0430\u0431\u044B\\lab3\\lab3\\MyForm.cpp",
               "RelativeToolTip": "lab3\\MyForm.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-12T11:18:58.855Z"
+              "WhenOpened": "2024-04-12T11:18:58.855Z",
+              "EditorCaption": ""
             }
           ]
         }
