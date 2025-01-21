@@ -106,12 +106,12 @@ public:
     }
 
     // void preOrder() {
-    //     cout << "Pre-order traversal:" << std::endl;
+    //     cout << "Pre-order traversal:" << endl;
     //     preOrder(root);
     // }
 
     // void postOrder() {
-    //     std::cout << "Post-order traversal:" << std::endl;
+    //     cout << "Post-order traversal:" << endl;
     //     postOrder(root);
     // }
 
@@ -135,7 +135,7 @@ public:
     //     if (node != nullptr) {
     //         postOrder(node->left);
     //         postOrder(node->right);
-    //         cout << node->contact.name << ": " << node->contact.phone << std::endl;
+    //         cout << node->contact.name << ": " << node->contact.phone << endl;
     //     }
     // }
 
@@ -156,7 +156,7 @@ public:
         for (int i = 0; i < count; ++i) {
             Contact contact = generateRandomContact(names);
             insert(contact);
-            cout << "Inserted: " << contact.name << ", Phone: " << contact.phone << std::endl;
+            cout << "Inserted: " << contact.name << ", Phone: " << contact.phone << endl;
         }
     }
 };
