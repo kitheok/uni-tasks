@@ -94,47 +94,6 @@ int task5(const string& first, const string& second, unordered_map<string, int>&
     return lcs;
 }
 
-//алгоритм вычисления выпуклой оболочки множества точек на плоскости 
-struct Point{
-	int x, y;
-
-	bool operator<(const Point& p) const{
-		return (x<p.x) || (x == p.x && y < p.y);
-	}
-};
-
-int multiplication(const Point& start, const Point& A, const Point& B){
-	return (A.x - start.x)*(B.y - start.y) - (A.y - start.y)*(B.x - start.x);
-}
-
-vector<Point> task6(vector<Point>& points){
-	if(points.size() <= 1 ) return points;
-
-	sort(points.begin(), points.end());
-
-	vector<Point> lower;
-	for(const auto& p:points){
-		while (lower.size()>=2 && multiplication(lower[lower.size()-2], lower.back(), p) <=0){
-			lower.pop_back();
-		}
-		lower.push_back(p);
-	}
-
-	vector<Point> upper;
-	for(int i = points.size()-1;i>=0;i--){
-		const auto& p = points[i];
-		while(upper.size()>=2 && multiplication(upper[upper.size()-2], upper.back(), p) <=0){
-			upper.pop_back();
-		}
-		upper.push_back(p);
-	}
-
-	upper.pop_back();
-
-	lower.insert(lower.end(), upper.begin(), upper.end());
-	return lower;
-}
-
 //алгоритм, который разделяет массив на k групп с минимальной разницей в суммах элементов
 void findGroups(const vector<int>& arr, vector<vector<int>>& groups, vector<int>& groupSum, int k, int currentIndex, int& minDifference, vector<vector<int>>& bestGroups) {
     if (currentIndex == arr.size()) {
@@ -246,17 +205,7 @@ int main(){
   cout << "The length of the largest common substring: " << result << endl;
 
   //6 задание
-	vector<Point> points = { {0, 0}, {0, 1}, {2, 1}, {2, 0}, {0, 2}, {1, 0}, {0, 1} };
-
-
-	vector<Point> hull = task6(points);
-
-	cout << "Peaks of the convex hull: " << endl;
-	for(const auto& i:hull){
-		cout << '(' << i.x << ',' << i.y << ')' << endl;
-	}
-
-	cout << endl;
+	
   //7 и 8 заадание 
 	vector<int> array_1 = {15, 20, 25, 30, 35, 40, 50};
   int k = 2;
