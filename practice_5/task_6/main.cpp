@@ -99,7 +99,7 @@ int main() {
     setlocale(LC_ALL, "ru");
     string text;
     cout << "Enter text to compress: ";
-    getline(cin, text); // Используем getline чтобы прочитать весь ввод с пробелами
+    getline(cin, text); 
 
     huffmanCoding(text);
 
